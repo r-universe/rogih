@@ -1,0 +1,10 @@
+[
+  {
+    "package": "acfMPeriod",
+    "oncran": true
+  },
+  {
+    "package": "tsqn",
+    "oncran": true
+  }
+]

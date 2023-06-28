@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "acfMPeriod"]
 	path = acfMPeriod
 	url = https://github.com/rogih/acfmperiod
-	shallow = true
-	registered = true
 [submodule "tsqn"]
 	path = tsqn
 	url = https://github.com/rogih/tsqn
-	shallow = true
-	registered = true
